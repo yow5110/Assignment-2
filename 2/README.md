@@ -38,5 +38,6 @@ A photon with energy 2.8 eV has a wavelength of 444.0 nm
    this is visible
    
 A photon with energy 3.0 eV has a wavelength of 414.4 nm
+
    this is visible
    
