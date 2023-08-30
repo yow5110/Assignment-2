@@ -34,7 +34,7 @@ A photon with energy 2.4 eV has a wavelength of 518.0 nm
 
    this is visible
    
-   >>>> this is closest to 520 nm
+   ---- this is closest to 520 nm ----
 
 A photon with energy 2.6 eV has a wavelength of 478.1 nm
 
