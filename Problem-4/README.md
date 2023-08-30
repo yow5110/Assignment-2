@@ -2,7 +2,11 @@
 
 As with many problems in science, there is often more than one way to program a math calculation. 
 Although in analytical terms, these ways should be equivalent, in a numerical world we may get different results.
-The hyperbolic sine function is defined as <img src="https://latex.codecogs.com/gif.latex?\sinh(x)=\frac{1}{2}\left(e^{x}-e^{-x}&space;\right&space;)" title="\sinh(x)=\frac{1}{2}\left(e^{x}-e^{-x} \right )" />. This operation can be computed in (at least) three different ways using python:
+The hyperbolic sine function is defined as
+
+<img src="https://latex.codecogs.com/gif.latex?\sinh(x)=\frac{1}{2}\left(e^{x}-e^{-x}&space;\right&space;)" title="\sinh(x)=\frac{1}{2}\left(e^{x}-e^{-x} \right )" />. 
+
+This operation can be computed in (at least) three different ways using python:
 
 1. using the sinh() function of numpy
 2. using the exp() function of numpy
